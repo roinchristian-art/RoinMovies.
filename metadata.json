@@ -1,0 +1,6 @@
+
+{
+  "name": "Roinmovies",
+  "description": "A premium movie streaming platform where creators can upload their films and manage their cinematic library with AI-enhanced metadata generation.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
